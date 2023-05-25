@@ -1,5 +1,7 @@
+<div align="center">
+  
 ![header](https://capsule-render.vercel.app/api?type=waving&text=Hello&color=auto)
-
+  
 ### 🙌 Introduce
 안녕하세요!
 퍼블리셔에서 나아가 프론트엔드 개발자를 희망하며 부지런히 공부하고 있습니다.<br>
@@ -18,3 +20,5 @@
 
 ### 🔥 GitHub Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=parkyangji&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+  
+</div>
