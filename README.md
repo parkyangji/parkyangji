@@ -9,6 +9,8 @@
 
 2023.6.8 ~ 모션 액티비티 개발 재직중
 
+2024.1 ~ 정보처리기사 시험
+
   
 ### 🛠️ Stacks
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"> 
